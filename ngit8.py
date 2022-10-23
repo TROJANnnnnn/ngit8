@@ -13,7 +13,7 @@ def _sum(arr):
 	# iterate through the array
 	# and add each element to the sum variable
 	# one at a time
-	for i in arr #put a : here
+	for i in arr:
 		sum = sum + i
 
 	return(sum)
